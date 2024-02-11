@@ -1,7 +1,7 @@
 /*
 
 Author : Partha Biswas
-Date : 01/01/2024
+Date : 01/02/2024
 Problem : Panagram Checking
 Problem Link : https://www.geeksforgeeks.org/problems/pangram-checking-1587115620/1
 */
