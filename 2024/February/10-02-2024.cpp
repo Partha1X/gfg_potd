@@ -1,7 +1,7 @@
 /*
 
 Author : Partha Biswas
-Date : 10/01/2024
+Date : 10/02/2024
 Problem : Number of paths in a matrix with k coins
 Problem Link : https://www.geeksforgeeks.org/problems/number-of-paths-in-a-matrix-with-k-coins2728/1
 */
