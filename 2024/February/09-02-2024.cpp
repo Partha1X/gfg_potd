@@ -1,7 +1,7 @@
 /*
 
 Author : Partha Biswas
-Date : 09/01/2024
+Date : 09/02/2024
 Problem : Check for Children Sum Property in a Binary Tree
 Problem Link : https://www.geeksforgeeks.org/problems/children-sum-parent/1
 */
