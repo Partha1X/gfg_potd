@@ -1,7 +1,7 @@
 /*
 
 Author : Partha Biswas
-Date : 02/01/2024
+Date : 02/02/2024
 Problem : Decimal Equivalent of Binary Linked List
 Problem Link : https://www.geeksforgeeks.org/problems/decimal-equivalent-of-binary-linked-list/1
 */
