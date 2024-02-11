@@ -1,7 +1,7 @@
 /*
 
 Author : Partha Biswas
-Date : 02/01/2024
+Date : 02/02/2024
 Problem : Implement Atoi
 Problem Link : https://www.geeksforgeeks.org/problems/implement-atoi/1
 */
